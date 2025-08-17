@@ -1,0 +1,26 @@
+country,year,recommended_scenario,recommended_actions,poverty_rate,resilience_score,debt_gni_pct,trade_balance_gdp_pct,shock_impact_score
+Afghanistan,2030,trade_diversification,Diversify exports and markets; strengthen logistics and value chains.,7.948068346162873,-0.0368571644740915,19.7980988255309,-33.8790889104381,0.0
+Argentina,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",1.208583333333329,0.1297773488283636,42.0664911888795,2.5090660430569987,0.0003947783816005
+Australia,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.5009999999999999,0.1120709423830771,24.432018574662933,2.096189599945202,0.0
+Bangladesh,2030,trade_diversification,Diversify exports and markets; strengthen logistics and value chains.,8.0,0.0624176810948141,22.3023475622467,-5.855700262756601,0.0002015020793117
+Belgium,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.0983333333333336,0.0828538845555958,24.432018574662933,-0.0131273800502071,0.0
+Canada,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.202000000000001,0.1013685886140576,24.432018574662933,-0.2563633034243011,0.0004461789440754
+China,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.0,0.0774948275642286,13.7159179498305,2.8474131335977013,0.0
+Croatia,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.3457380952380962,0.1077931179757806,24.432018574662933,-3.117602548338297,0.0
+France,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.0990000000000005,0.0927290344285094,24.432018574662933,-0.7348022623855996,0.0
+Germany,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.3607476190476194,0.102473047119981,24.432018574662933,3.8558646864533017,0.0009656798793868
+India,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",4.124028571428577,0.0712246805969701,18.398392023483,-2.3148479930731973,1.87339328639692e-05
+Iran,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",2.5187333333333335,0.039999918571447,2.44977869717701,-3.924261268562301,0.0
+Iraq,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.5152307692307697,0.0599023192564235,8.07390544982739,0.2785641833054981,0.0
+Israel,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.6335282051282035,0.1128606347796286,24.432018574662933,2.4175228785674996,0.0
+Italy,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.4564761904761914,0.0970428717968326,24.432018574662933,2.289627830103104,0.0
+Japan,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",1.1999999999999933,0.0809577062428283,24.432018574662933,-1.4476970836061014,0.0001241862441414
+Pakistan,2030,trade_diversification,Diversify exports and markets; strengthen logistics and value chains.,16.5,0.0871690290929474,39.3943802755119,-6.672579932569599,0.0
+Portugal,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.200000000000001,0.118924155982715,24.432018574662933,1.8182695430112048,0.0016845743540409
+Russia,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.2289523809523818,0.0974215875318204,24.432018574662933,4.325035800860299,0.0001044237100627
+Saudi Arabia,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",7.950789176580414,0.103678228338831,24.432018574662933,3.5237075490380008,0.0
+Spain,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.7936666666666706,0.1105584375025106,24.432018574662933,4.2805255251386995,0.0
+Sri Lanka,2030,debt_stabilization,"Stabilize debt through fiscal reforms, tax base expansion, and subsidy rationalization.",2.6976666666666778,0.1548932025628098,75.5983345222285,-2.6248594373057976,0.0
+Sweden,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.6320666666666666,0.1283741691675573,24.432018574662933,4.3916226173141055,0.0
+UK,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",0.5025384615384616,0.0797641015896581,24.432018574662933,-1.1320632945268976,0.0
+USA,2030,infrastructure_investment,"Invest in transport, energy, and digital infrastructure to boost growth.",1.1999999999999933,0.0815752900880806,24.432018574662933,-3.0942415750067997,6.54448243594545e-05

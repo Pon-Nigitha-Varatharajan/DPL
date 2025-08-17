@@ -1,0 +1,26 @@
+country,vulnerability_1,score_1,vulnerability_2,score_2,vulnerability_3,score_3
+Afghanistan,poverty_headcount_ratio_3ppp_pct,1.417,resilience_score,1.307,current_account_balance_gdp_pct,0.706
+Argentina,external_debt_stocks_gni_pct,1.27,current_account_balance_gdp_pct,0.594,inflation_consumer_prices_pct,-0.248
+Australia,shock_impact_score,1.888,num_disasters,0.711,current_account_balance_gdp_pct,0.687
+Bangladesh,poverty_headcount_ratio_3ppp_pct,1.428,resilience_score,0.959,current_account_balance_gdp_pct,0.522
+Belgium,trade_dependency_index,3.387,resilience_score,1.021,current_account_balance_gdp_pct,0.706
+Canada,shock_impact_score,1.257,current_account_balance_gdp_pct,0.706,resilience_score,0.624
+China,resilience_score,0.982,num_disasters,0.873,current_account_balance_gdp_pct,0.068
+Croatia,trade_dependency_index,1.484,current_account_balance_gdp_pct,0.578,inflation_consumer_prices_pct,0.071
+France,resilience_score,0.876,current_account_balance_gdp_pct,0.661,trade_dependency_index,0.21
+Germany,trade_dependency_index,0.694,external_debt_stocks_gni_pct,-0.075,num_disasters,-0.097
+India,num_disasters,1.843,resilience_score,1.255,poverty_headcount_ratio_3ppp_pct,0.737
+Iran,inflation_consumer_prices_pct,4.03,num_disasters,0.711,poverty_headcount_ratio_3ppp_pct,0.035
+Iraq,trade_dependency_index,0.146,inflation_consumer_prices_pct,-0.22,total_damage_adjusted_usd,-0.297
+Israel,external_debt_stocks_gni_pct,-0.075,trade_dependency_index,-0.206,current_account_balance_gdp_pct,-0.27
+Italy,shock_impact_score,1.346,resilience_score,0.662,current_account_balance_gdp_pct,0.61
+Japan,shock_impact_score,1.201,total_damage_adjusted_usd,0.229,num_disasters,0.065
+Pakistan,poverty_headcount_ratio_3ppp_pct,3.605,inflation_consumer_prices_pct,1.602,external_debt_stocks_gni_pct,1.066
+Portugal,trade_dependency_index,1.052,current_account_balance_gdp_pct,0.52,shock_impact_score,0.084
+Russia,inflation_consumer_prices_pct,-0.03,external_debt_stocks_gni_pct,-0.075,total_damage_adjusted_usd,-0.289
+Saudi Arabia,poverty_headcount_ratio_3ppp_pct,1.417,external_debt_stocks_gni_pct,-0.075,total_damage_adjusted_usd,-0.298
+Spain,shock_impact_score,2.43,trade_dependency_index,0.278,total_damage_adjusted_usd,0.072
+Sri Lanka,external_debt_stocks_gni_pct,3.915,inflation_consumer_prices_pct,1.19,current_account_balance_gdp_pct,0.285
+Sweden,trade_dependency_index,1.117,external_debt_stocks_gni_pct,-0.075,total_damage_adjusted_usd,-0.295
+UK,resilience_score,0.945,current_account_balance_gdp_pct,0.706,trade_dependency_index,0.111
+USA,total_damage_adjusted_usd,4.744,num_disasters,3.137,shock_impact_score,1.813

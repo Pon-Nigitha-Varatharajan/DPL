@@ -44,8 +44,8 @@ df["resilience_score"] = scaler.fit_transform(df[resilience_factors].fillna(0)).
 if "government_spending_gdp_pct" in df.columns:
     df["spending_efficiency"] = df["gdp_per_capita_current_usd"] / df["government_spending_gdp_pct"]
 
-if "total_damage_adjusted" in df.columns:
-    df["shock_impact_score"] = df["total_damage_adjusted"] / df["gdp_current_usd"]
+if "total_damage_adjusted_usd" in df.columns:
+    df["shock_impact_score"] = df["total_damage_adjusted_usd"] / df["gdp_current_usd"]
 
 lag_columns = [
     "gdp_growth_pct",
